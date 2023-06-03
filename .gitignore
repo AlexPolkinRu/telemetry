@@ -1,0 +1,10 @@
+cgi-bin/
+tests/
+.htaccess
+index.html
+secret*
+2daysago*
+yesterday*
+20230530*
+chart.html
+telegram*
